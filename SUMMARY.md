@@ -8,7 +8,6 @@
 ## Vue
 
 * [Vue](vue/vue.md)
-* [过滤器](vue/过滤器.md)
 
 ## 🐍 python
 

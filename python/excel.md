@@ -32,3 +32,7 @@ if __name__ == '__main__':
     file_path = '/tmp/bs.xlsx'
     read_excel_and_sum(file_path)
 ```
+
+# 统计某一列对应的数量列的总和2
+
+

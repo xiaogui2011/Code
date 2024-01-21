@@ -72,75 +72,45 @@ promise
 函数没有做数据代理
 
 
-# Vue
 
-JavaScript
+# 过滤器
 
-* for each
-* 遍历map
-* for循环
-* let
+## js第三方的库
 
-命令式编码 vs 声明式编码
+[BootCdn](https://www.bootcdn.cn/) 怎么使用
 
-虚拟DOM的diff比较
+## 过滤器
 
-## vue之前需要掌握
+### 接收的参数
 
-es的语法规范
+表面为N个， 其实是N+1个
 
-* 箭头函数
+多个过滤器的串联：就像是linux中的grep
 
-es6模块化
+局部过滤器filters， 全局过滤器filter
 
-* 默认暴露
-* 分别暴露
-* 统一暴露
-* import
-* export
+差值语法 / v-bind
 
-包管理器
+## 组件
 
-* npm
-* yarn
-* cyarn
+组件 一个组件就是一个微型的vm
 
-**原型和原型链路**
+## 内置指令
 
-数组的常用方法
+diff 自定义指令
 
-axios
+## cookie
 
-promise
+七天免登录的原理
 
-## 搭建Vue开发环境
+为什么只输入一次账号密码
 
-装一个chrome插件, 关闭开发报警
+跨浏览器读取cookie是不可行的
 
-绑定关系
+插件 cookie editor
 
-```html
-<div id="root">
-    <h1>Hello {{name}}, 性别 {{gender}} </h1>
-</div>
+v-html 和 XSS攻击（冒充用户之手）
 
-<script type="text/javascript">
-    Vue.config.productionTip = false
-    const v = new Vue({
-        // el:document.getElementById("root"),
-        el:"#root", // el就是把容器一起绑定起来了
-        data:{ // data中用于存储数据
-            name: "张三",
-            gender: "男",
-        }
-    })
-</script>
-```
+## 浏览器调试方法
 
-## MVVM
-
-## 数据代理
-
-参数做了数据代理， 也就是data中的内容都做了数据代理
-
-函数没有做数据代理
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">

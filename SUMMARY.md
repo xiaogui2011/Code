@@ -12,3 +12,12 @@
 ## 🐍 python
 
 * [excel](python/excel.md)
+
+## linux
+
+* [ssh](linux/ssh.md)
+
+## 中间件
+
+* [elasticsearch](zhong-jian-jian/elasticsearch.md)
+* [kafka](zhong-jian-jian/kafka.md)

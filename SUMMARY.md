@@ -23,10 +23,14 @@
 * [kafka](zhong-jian-jian/kafka.md)
 
 ## go
+
 * [并发](go/并发.md)
+* [库](go/ku.md)
 
 ## 云原生
+
 * [k8s](云原生/k8s.md)
- 
+
 ## shell
+
 * [shell](shell/远程连接并执行.md)

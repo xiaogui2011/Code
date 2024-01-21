@@ -1,6 +1,4 @@
-# excel
-
-## 统计某一列对应的数量列的总和
+# 统计某一列对应的数量列的总和
 
 ```python
 import pandas as pd

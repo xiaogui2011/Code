@@ -12,6 +12,7 @@
 ## 🐍 python
 
 * [excel](python/excel.md)
+* [文件服务器](python/wen-jian-fu-wu-qi.md)
 
 ## linux
 

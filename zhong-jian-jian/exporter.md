@@ -1,4 +1,8 @@
-# MYSQL
+# exporter
+
+## MYSQL
+
+### docker启动
 
 ```shell
 docker run -d --name mysqld_exporter -p 9104:9104 -e DATA_SOURCE_NAME="root:JdZ6ym5uOH@(172.16.4.65:30682)/" prom/mysqld-exporter:v0.14.0
@@ -8,8 +12,13 @@ docker run -d --name mysqld_exporter -p 9104:9104 -e DATA_SOURCE_NAME="root:JdZ6
 docker run -d --name mysqld_exporter -p 9104:9104 -e DATA_SOURCE_NAME="root:JdZ6ym5uOH@(192.168.10.151:32383)/" prom/mysqld-exporter:v0.14.0
 ```
 
+### 二进制启动
 
-```shell
+```
+./mysqld_exporter --config.my-cnf="/root/exporter/mysqld_exporter-0.15.1.linux-amd64/localhost_db.cnf" --web.listen-address=":9105"
+```
+
+```bash
 0 14:58:34 192.168.10.241:~/exporter/mysqld_exporter-0.15.1.linux-amd64 $ tree
 .
 ├── LICENSE
@@ -38,13 +47,13 @@ ts=2024-01-22T06:58:45.337Z caller=tls_config.go:274 level=info msg="Listening o
 ts=2024-01-22T06:58:45.337Z caller=tls_config.go:277 level=info msg="TLS is disabled." http2=false address=[::]:9105
 ```
 
+## redis
 
-# redis
+### 二进制启动
+
 ```shell
 ./redis_exporter -redis.addr 192.168.10.151:32641 -redis.password  -web.listen-address 0.0.0.0:9121
 ```
-
-
 
 ```shell
 0 15:49:35 192.168.10.241:/usr/local/wwmonitor/plugins/redis_exporter $ ps -ef | grep redis
@@ -55,6 +64,8 @@ root     59406 49033  0 15:49 pts/2    00:00:00 grep --color=auto redis
 INFO[0000] Redis Metrics Exporter v1.54.0    build date: 2023-09-05-21:56:29    sha1: 4df89bf3349009a8b145bf19fb086c775a6de1b9    Go: go1.20.7    GOOS: linux    GOARCH: amd64
 INFO[0000] Providing metrics at :9121/metrics
 ```
+
+### 二进制后台启动
 
 ```shell
 #!/bin/bash
@@ -67,8 +78,9 @@ nohup ./redis_exporter -redis.addr "192.168.10.151:32641" -redis.password "baKuT
 nohup /root/exporter/mysqld_exporter-0.15.1.linux-amd64/mysqld_exporter --config.my-cnf="/root/exporter/mysqld_exporter-0.15.1.linux-amd64/localhost_db.cnf" --web.listen-address=":9105" > /tmp/mysql_exporter.log 2>&1 &
 ```
 
+## mongodb
 
-# mongodb
+### 二进制启动
 
 ```shell
 /usr/local/wwmonitor/plugins/mongodb_exporter-0.40.0.linux-amd64/mongodb_exporter --mongodb.user=root --mongodb.password=txSeuiGXRg --mongodb.uri=mongodb://192.168.10.241:30446 --collector.profile --collector.collstats --mongodb.collstats-colls=db1.c1,db2.c2 --collect-all

@@ -1,5 +1,7 @@
 # Vue
 
+## Vue
+
 JavaScript
 
 * for each
@@ -11,7 +13,7 @@ JavaScript
 
 虚拟DOM的diff比较
 
-## vue之前需要掌握
+### vue之前需要掌握
 
 es的语法规范
 
@@ -39,7 +41,7 @@ axios
 
 promise
 
-## 搭建Vue开发环境
+### 搭建Vue开发环境
 
 装一个chrome插件, 关闭开发报警
 
@@ -63,25 +65,23 @@ promise
 </script>
 ```
 
-## MVVM
+### MVVM
 
-## 数据代理
+### 数据代理
 
 参数做了数据代理， 也就是data中的内容都做了数据代理
 
 函数没有做数据代理
 
+## 过滤器
 
-
-# 过滤器
-
-## js第三方的库
+### js第三方的库
 
 [BootCdn](https://www.bootcdn.cn/) 怎么使用
 
-## 过滤器
+### 过滤器
 
-### 接收的参数
+#### 接收的参数
 
 表面为N个， 其实是N+1个
 
@@ -91,15 +91,15 @@ promise
 
 差值语法 / v-bind
 
-## 组件
+### 组件
 
 组件 一个组件就是一个微型的vm
 
-## 内置指令
+### 内置指令
 
 diff 自定义指令
 
-## cookie
+### cookie
 
 七天免登录的原理
 
@@ -111,6 +111,25 @@ diff 自定义指令
 
 v-html 和 XSS攻击（冒充用户之手）
 
-## 浏览器调试方法
+### 浏览器调试方法
 
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
+
+
+
+
+## 自定义指令
+
+`Vue.directives`
+
+自己操作DOM
+
+只要模板一解析, 就会自动调用自定义指令
+
+
+
+fbind
+
+BUI(build/update/insert)
+

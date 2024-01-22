@@ -5,12 +5,9 @@
 * [Page 1](README.md)
 * [Gitbook](git/gitbook.md)
 
-***
-
-* [前端学习路线](qian-duan-xue-xi-lu-xian.md)
-
 ## web
 
+* [前端学习路线](web/qian-duan-xue-xi-lu-xian.md)
 * [Vue](web/vue.md)
 * [生命周期和组件](web/sheng-ming-zhou-qi-he-zu-jian.md)
 

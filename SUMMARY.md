@@ -8,6 +8,7 @@
 ## Vue
 
 * [Vue](vue/vue.md)
+* [生命周期和组件](vue/sheng-ming-zhou-qi-he-zu-jian.md)
 
 ## 🐍 python
 
@@ -35,7 +36,3 @@
 ## shell
 
 * [shell](shell/远程连接并执行.md)
-
-***
-
-* [生命周期和组件](sheng-ming-zhou-qi-he-zu-jian.md)

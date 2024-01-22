@@ -4,13 +4,13 @@
 
 python2
 
-```
+```shell
 python -m SimpleHTTPServer 8888
 ```
 
 python3
 
-```
+```sh
 python -m http.server
 ```
 

@@ -88,7 +88,9 @@ nohup /root/exporter/mysqld_exporter-0.15.1.linux-amd64/mysqld_exporter --config
 
 ## nginx
 
-### 开启`ngx_http_stub_status_module`模块
+### 开启`stub_status`
+
+开启`ngx_http_stub_status_module`模块
 
 ```shell
 130 15:50:08 192.168.10.151:~ $ cat /etc/nginx/nginx.conf

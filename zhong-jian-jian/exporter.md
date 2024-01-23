@@ -86,13 +86,12 @@ nohup /root/exporter/mysqld_exporter-0.15.1.linux-amd64/mysqld_exporter --config
 /usr/local/wwmonitor/plugins/mongodb_exporter-0.40.0.linux-amd64/mongodb_exporter --mongodb.user=root --mongodb.password=txSeuiGXRg --mongodb.uri=mongodb://192.168.10.241:30446 --collector.profile --collector.collstats --mongodb.collstats-colls=db1.c1,db2.c2 --collect-all
 ```
 
-
 ## nginx
 
 ### 开启`ngx_http_stub_status_module`模块
 
 ```shell
-0 15:34:35 192.168.10.151:~ $ cat /etc/nginx/nginx.conf
+130 15:50:08 192.168.10.151:~ $ cat /etc/nginx/nginx.conf
 user  nginx;
 worker_processes  1;
 
@@ -124,27 +123,23 @@ http {
 
     # 启用 stub_status 模块，监听 8080 端口
     server {
-        listen 8080;
-        location /nginx_status {
-            stub_status on;
-            access_log off;
-            allow 127.0.0.1;
-            deny all;
-        }
+	location = /nginx_status {
+	     stub_status;
+	}
     }
 
     include /etc/nginx/conf.d/*.conf;
 }
 ```
 
-
 ### 配置
+
 ```shell
 ./nginx-prometheus-exporter -nginx.scrape-uri http://127.0.0.1/nginx_status &
 ```
 
-
 ### 二进制启动
+
 ```shell
 ./nginx-prometheus-exporter -nginx.scrape-uri http://127.0.0.1/nginx_status &
 ./nginx-prometheus-exporter -nginx.scrape-uri http://192.168.10.233:30896 &

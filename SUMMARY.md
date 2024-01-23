@@ -19,6 +19,7 @@
 ## linux
 
 * [ssh](linux/ssh.md)
+* [shell](linux/shell.md)
 
 ## 中间件
 

@@ -1,8 +1,10 @@
 # 生命周期和组件
 
+## 生命周期和组件
+
 生命周期就是特定的时间
 
-# mounted
+## mounted
 
 ```js
 // your-app.js
@@ -24,12 +26,50 @@ var app = new Vue({
 
 mounted其实就是钩子函数
 
-# debugger
+## debugger
 
 代码调试
 
-
-# template
+## template
 
 模板是什么
+
+
+
+## html标签 / 组件元素名
+
+区别
+
+
+
+## 组件的嵌套
+
+##
+
+## vue component 构造函数
+
+组件中this的实例
+
+简称vc
+
+* 数据代理
+* 数据监视
+
+
+
+## Vue实例 和 组件实例
+
+
+
+vc diff vm
+
+* el组件实例没资格填写
+
+## prototype
+
+&#x20;<img src="../.gitbook/assets/image.png" alt="" data-size="original">
+
+
+
+
 

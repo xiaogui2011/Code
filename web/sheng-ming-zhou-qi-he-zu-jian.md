@@ -71,5 +71,44 @@ vc diff vm
 
 
 
+## 单文件组件
+
+什么是工作流
+
+* webpack
+* 脚手架
+
+插件 `vutur`
+
+\<template>不参与编译
+
+
+
+## 暴露方式
+
+三种方式随便挑, 一般用默认暴露
+
+
+
+## App.Vue
+
+汇总所有的组件
+
+
+
+## 脚手架入口
+
+main.js
+
+index.js
+
+app.js
+
+***
+
+index.html
+
+
+
 
 

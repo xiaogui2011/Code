@@ -108,6 +108,34 @@ app.js
 
 index.html
 
+脚手架帮忙做代码的转换和编译
+
+
+
+## [Vue cli](https://cli.vuejs.org/zh/guide/)
+
+npm配置淘宝源
+
+安装npm
+
+
+
+## 问题
+
+{% embed url="https://blog.csdn.net/qq_31594665/article/details/135750276" %}
+
+{% embed url="https://blog.csdn.net/A_bad_horse/article/details/124123139" %}
+
+```
+npm config set registry https://registry.npm.taobao.org
+npm install -g @vue/cli
+vue create hello
+```
+
+
+
+## render函数
+
 
 
 

@@ -12,4 +12,5 @@
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-## 其他用法
+## [中文文档](https://chrisniael.gitbooks.io/gitbook-documentation/content/)
+

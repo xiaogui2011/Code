@@ -26,6 +26,7 @@
 * [elasticsearch](zhong-jian-jian/elasticsearch.md)
 * [kafka](zhong-jian-jian/kafka.md)
 * [exporter](zhong-jian-jian/exporter.md)
+* [mongodb](zhong-jian-jian/mongodb.md)
 
 ## go
 

@@ -1,5 +1,15 @@
 # README
 
+## 最近在看的
+
+Vue2
+
+{% embed url="https://www.youtube.com/playlist?list=PLmOn9nNkQxJEARHuEpVayY6ppiNlkvrnb" %}
+
+### [全网最详细ElementUI教程](https://www.bilibili.com/video/BV1Ks4y1P7kc/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=31e016075d5dc418e05dd62618989320)
+
+
+
 ## 尚硅谷
 
 {% embed url="https://www.youtube.com/@atguigu" %}

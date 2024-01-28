@@ -10,6 +10,7 @@
 * [前端学习路线](web/qian-duan-xue-xi-lu-xian.md)
 * [Vue](web/vue.md)
 * [生命周期和组件](web/sheng-ming-zhou-qi-he-zu-jian.md)
+* [vue 0128](web/vue-0128.md)
 
 ## 🐍 python
 

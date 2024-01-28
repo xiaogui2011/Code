@@ -1,8 +1,9 @@
 # Table of contents
 
+* [Page 1](README.md)
+
 ## git
 
-* [Page 1](README.md)
 * [Gitbook](git/gitbook.md)
 
 ## web

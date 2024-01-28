@@ -2,7 +2,7 @@
 
 ## 最近在看的
 
-Vue2
+[vue-0128.md](web/vue-0128.md "mention")
 
 {% embed url="https://www.youtube.com/playlist?list=PLmOn9nNkQxJEARHuEpVayY6ppiNlkvrnb" %}
 

@@ -33,6 +33,7 @@
 
 ## go
 
+* [协程池](go/xie-cheng-chi.md)
 * [并发](go/并发.md)
 * [库](go/ku.md)
 

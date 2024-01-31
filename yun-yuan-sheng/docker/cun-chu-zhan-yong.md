@@ -4,6 +4,8 @@ description: docker
 
 # 写满磁盘
 
+## 检查分区
+
 /mnt/registry/registry/docker/registry/v2/blobs/sha256
 
 ```bash

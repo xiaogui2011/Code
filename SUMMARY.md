@@ -44,7 +44,7 @@
 ## 云原生
 
 * [docker](yun-yuan-sheng/docker/README.md)
-  * [写满磁盘](yun-yuan-sheng/docker/xie-man-ci-pan.md)
+  * [写满磁盘](yun-yuan-sheng/docker/cun-chu-zhan-yong.md)
 * [k8s](云原生/k8s.md)
 
 ## shell

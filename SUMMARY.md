@@ -5,6 +5,8 @@
   * [同步代码](gitbook/tong-bu-dai-ma.md)
   * [插件的使用](gitbook/cha-jian-de-shi-yong.md)
   * [格式](gitbook/ge-shi.md)
+* [IDE工具](ide-gong-ju/README.md)
+  * [jetbrains](ide-gong-ju/jetbrains.md)
 
 ## web
 

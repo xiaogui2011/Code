@@ -1,13 +1,10 @@
 # Table of contents
 
 * [README](README.md)
-
-## git
-
-* [Gitbook](git/gitbook/README.md)
-  * [同步代码](git/gitbook/tong-bu-dai-ma.md)
-  * [插件的使用](git/gitbook/cha-jian-de-shi-yong.md)
-  * [格式](git/gitbook/ge-shi.md)
+* [Gitbook](gitbook/README.md)
+  * [同步代码](gitbook/tong-bu-dai-ma.md)
+  * [插件的使用](gitbook/cha-jian-de-shi-yong.md)
+  * [格式](gitbook/ge-shi.md)
 
 ## web
 

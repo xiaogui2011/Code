@@ -2,7 +2,6 @@
 
 * [README](README.md)
 * [飞出去](fei-chu-qu/README.md)
-  * [Page](fei-chu-qu/page.md)
   * [apple tv OS](fei-chu-qu/apple-tv-os.md)
   * [IOS](fei-chu-qu/ios.md)
   * [macos](fei-chu-qu/macos.md)

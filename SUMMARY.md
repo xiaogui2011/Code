@@ -4,7 +4,10 @@
 
 ## git
 
-* [Gitbook](git/gitbook.md)
+* [Gitbook](git/gitbook/README.md)
+  * [同步代码](git/gitbook/tong-bu-dai-ma.md)
+  * [插件的使用](git/gitbook/cha-jian-de-shi-yong.md)
+  * [格式](git/gitbook/ge-shi.md)
 
 ## web
 

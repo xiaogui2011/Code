@@ -22,7 +22,7 @@ description: docker
 目的: 释放一部分空间, 方便登录界面
 
 ```
-find ./ "*.log" -type f -exec rm {} ;
+find ./ "*.log" -type f -exec rm {} \;
 ```
 
 ```

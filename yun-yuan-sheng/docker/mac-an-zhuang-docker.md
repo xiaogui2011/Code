@@ -1,4 +1,16 @@
-# macos install engine
+# mac安装docker
+
+## orbstack
+
+{% embed url="https://ddev.readthedocs.io/en/stable/users/install/docker-installation/#macos" %}
+
+```
+brew install orbstack
+```
+
+<mark style="color:red;">比官方的消耗的资源小</mark>
+
+## Brew
 
 brew reinstall docker
 
@@ -18,10 +30,4 @@ brew install --cask docker
 
 
 
-## orbstack
-
-{% embed url="https://ddev.readthedocs.io/en/stable/users/install/docker-installation/#macos" %}
-
-```
-brew install orbstack
-```
+##

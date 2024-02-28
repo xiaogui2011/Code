@@ -10,6 +10,22 @@ brew install orbstack
 
 <mark style="color:red;">比官方的消耗的资源小</mark>
 
+```sh
+(base) 0 16:55:53 z:~ $docker ps
+Cannot connect to the Docker daemon at unix:///Users/zhangzhiyuan/.orbstack/run/docker.sock. Is the docker daemon running?
+(base) 0 16:55:54 z:~ $docker context show
+orbstack
+(base) 0 16:55:58 z:~ $
+```
+
+## 切换docker官方desktop
+
+```sh
+docker context use desktop-linux
+```
+
+##
+
 ## Brew
 
 brew reinstall docker
@@ -42,6 +58,9 @@ docker run xxx
 colima stop
 ```
 
-
+```
+docker ps 
+docker context show
+```
 
 ##

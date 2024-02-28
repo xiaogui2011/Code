@@ -15,3 +15,13 @@ brew install --cask docker
 ```
 
 > Because docker is a system-level package, you cannot install it using `brew install`, and must use `--cask` instead.
+
+
+
+## orbstack
+
+{% embed url="https://ddev.readthedocs.io/en/stable/users/install/docker-installation/#macos" %}
+
+```
+brew install orbstack
+```

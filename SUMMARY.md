@@ -47,6 +47,7 @@
 ## 云原生
 
 * [docker](yun-yuan-sheng/docker/README.md)
+  * [macos install engine](yun-yuan-sheng/docker/macos-install-engine.md)
   * [写满磁盘](yun-yuan-sheng/docker/cun-chu-zhan-yong.md)
   * [containers](yun-yuan-sheng/docker/containers.md)
   * [Harbor](yun-yuan-sheng/docker/harbor.md)

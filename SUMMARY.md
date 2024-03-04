@@ -61,6 +61,7 @@
 ## 云原生
 
 * [docker](yun-yuan-sheng/docker/README.md)
+  * [build-disk](yun-yuan-sheng/docker/build-disk.md)
   * [打包环境](yun-yuan-sheng/docker/da-bao-huan-jing.md)
   * [Colima](yun-yuan-sheng/docker/colima.md)
   * [macos  install](yun-yuan-sheng/docker/macos-install.md)

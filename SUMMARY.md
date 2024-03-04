@@ -39,6 +39,8 @@
 
 ## Language
 
+* [Shell](language/shell/README.md)
+  * [ping](language/shell/ping.md)
 * [C](language/c/README.md)
   * [imooc](language/c/imooc.md)
   * [Page](language/c/page.md)

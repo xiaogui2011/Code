@@ -40,6 +40,8 @@
 ## Language
 
 * [Shell](language/shell/README.md)
+  * [错误处理](language/shell/cuo-wu-chu-li.md)
+  * [rc.local](language/shell/rc.local.md)
   * [并发](language/shell/bing-fa.md)
   * [add-public-key](language/shell/add-public-key.md)
   * [routes-delete](language/shell/routes-delete.md)

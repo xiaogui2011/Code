@@ -4,7 +4,7 @@ description: ubuntu
 
 # restart wifi
 
-```
+```sh
 #!/bin/sh
 ifconfig enp0s20f0u14 down
 ifconfig enp0s20f0u13 down
@@ -21,10 +21,4 @@ sleep 1
 
 route add default gw 192.168.0.1
 sleep 1
-
-
-
-
-
-
 ```

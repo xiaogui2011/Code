@@ -40,6 +40,7 @@
 ## Language
 
 * [Shell](language/shell/README.md)
+  * [并发](language/shell/bing-fa.md)
   * [add-public-key](language/shell/add-public-key.md)
   * [routes-delete](language/shell/routes-delete.md)
   * [routes](language/shell/routes.md)

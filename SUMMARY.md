@@ -37,12 +37,16 @@
 * [mongodb](zhong-jian-jian/mongodb.md)
 * [mysql](zhong-jian-jian/mysql.md)
 
-## go
+## Language
 
-* [教程](go/jiao-cheng.md)
-* [协程池](go/xie-cheng-chi.md)
-* [并发](go/并发.md)
-* [库](go/ku.md)
+* [C](language/c/README.md)
+  * [imooc](language/c/imooc.md)
+  * [Page](language/c/page.md)
+* [Go](language/go/README.md)
+  * [教程](language/go/jiao-cheng.md)
+  * [协程池](language/go/xie-cheng-chi.md)
+  * [并发](language/go/bing-fa.md)
+  * [库](language/go/ku.md)
 
 ## 云原生
 

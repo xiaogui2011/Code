@@ -19,11 +19,6 @@
 * [生命周期和组件](web/sheng-ming-zhou-qi-he-zu-jian.md)
 * [vue 0128](web/vue-0128.md)
 
-## 🐍 python
-
-* [excel](python/excel.md)
-* [文件服务器](python/wen-jian-fu-wu-qi.md)
-
 ## linux
 
 * [ssh](linux/ssh.md)
@@ -39,6 +34,9 @@
 
 ## Language
 
+* [🐍python](language/python/README.md)
+  * [excel](language/python/excel.md)
+  * [文件服务器](language/python/wen-jian-fu-wu-qi.md)
 * [Shell](language/shell/README.md)
   * [use-command](language/shell/use-command.md)
   * [错误处理](language/shell/cuo-wu-chu-li.md)

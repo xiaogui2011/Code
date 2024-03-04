@@ -40,6 +40,7 @@
 ## Language
 
 * [Shell](language/shell/README.md)
+  * [routes](language/shell/routes.md)
   * [restart wifi](language/shell/restart-wifi.md)
   * [ping](language/shell/ping.md)
 * [C](language/c/README.md)

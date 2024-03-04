@@ -69,7 +69,3 @@
   * [containers](yun-yuan-sheng/docker/containers.md)
   * [Harbor](yun-yuan-sheng/docker/harbor.md)
 * [k8s](云原生/k8s.md)
-
-## shell
-
-* [shell](shell/远程连接并执行.md)

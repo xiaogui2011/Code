@@ -40,6 +40,8 @@
 ## Language
 
 * [Shell](language/shell/README.md)
+  * [add-public-key](language/shell/add-public-key.md)
+  * [routes-delete](language/shell/routes-delete.md)
   * [routes](language/shell/routes.md)
   * [restart wifi](language/shell/restart-wifi.md)
   * [ping](language/shell/ping.md)

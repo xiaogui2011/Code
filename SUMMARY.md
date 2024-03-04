@@ -40,6 +40,7 @@
 ## Language
 
 * [Shell](language/shell/README.md)
+  * [restart wifi](language/shell/restart-wifi.md)
   * [ping](language/shell/ping.md)
 * [C](language/c/README.md)
   * [imooc](language/c/imooc.md)

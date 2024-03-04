@@ -40,6 +40,7 @@
 ## Language
 
 * [Shell](language/shell/README.md)
+  * [use-command](language/shell/use-command.md)
   * [错误处理](language/shell/cuo-wu-chu-li.md)
   * [rc.local](language/shell/rc.local.md)
   * [并发](language/shell/bing-fa.md)

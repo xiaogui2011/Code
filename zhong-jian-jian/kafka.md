@@ -19,6 +19,16 @@
 
 
 
+## SASL / TLS
+
+这两个选项的作用是不同的。
+
+`config.Net.TLS.Enable`是一个布尔值，它决定了Kafka client是否要使用TLS来加密与Broker之间的通讯。如果设置为true，那么client将尝试使用TLS建立与Brokers的安全连接。否则，它将使用未加密的TCP连接。
+
+`config.Net.SASL.Enable`是一个bool值，它决定了Kafka client是否要使用SASL (Simple Authentication and Security Layer)来验证其与Brokers的身份。如果设置为true，那么client将尝试使用指定的SASL机制来验证自己的身份。否则，它将跳过身份验证步骤。
+
+综上所述，`config.Net.TLS.Enable`控制的是通讯是否被加密，而`config.Net.SASL.Enable`控制的是是否进行身份验证。
+
 ## 参与过的项目时序图
 
 <img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">

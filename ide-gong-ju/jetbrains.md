@@ -18,3 +18,11 @@
 (base) 0 15:11:00 z:JetBrains $ls -lt | grep Go
 drwxr-xr-x  12 zhangzhiyuan  staff   384  3  4 15:09 GoLand2023.3
 ```
+
+
+
+## 文件权限修改
+
+{% embed url="https://blog.csdn.net/weixin_45196863/article/details/118833478" %}
+
+> <mark style="color:red;">`sudo chown -R $USER ./`</mark>

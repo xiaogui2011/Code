@@ -15,7 +15,9 @@ description: docker
 42G	.
 ```
 
-
+```sh
+du -h --max-depth=1  | sort -hr
+```
 
 ## 清理不必要的文件
 

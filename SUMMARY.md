@@ -1,10 +1,10 @@
 # Table of contents
 
 * [README](README.md)
+* [macos](macos.md)
 * [飞出去](fei-chu-qu/README.md)
   * [apple tv OS](fei-chu-qu/apple-tv-os.md)
   * [IOS](fei-chu-qu/ios.md)
-  * [macos](fei-chu-qu/macos.md)
 * [Gitbook](gitbook/README.md)
   * [同步代码](gitbook/tong-bu-dai-ma.md)
   * [插件的使用](gitbook/cha-jian-de-shi-yong.md)

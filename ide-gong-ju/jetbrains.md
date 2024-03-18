@@ -2,6 +2,14 @@
 
 ## 远程开发
 
+##
+
+## 代码同步到远程
+
+[Intellij IDEA同步代码至远程FTP服务器](https://blog.csdn.net/banana1006034246/article/details/81534975)
+
+
+
 ## 授权服务器
 
 [最终方案采用搞活动的授权服务器](https://github.com/Jetereting/idea-activate?tab=readme-ov-file#6-%E6%9C%80%E7%BB%88%E6%96%B9%E6%A1%88%E9%87%87%E7%94%A8%E6%90%9E%E6%B4%BB%E5%8A%A8%E7%9A%84%E6%8E%88%E6%9D%83%E6%9C%8D%E5%8A%A1%E5%99%A8)

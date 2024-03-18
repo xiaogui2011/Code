@@ -1,7 +1,11 @@
 # Table of contents
 
 * [README](README.md)
-* [macos](macos.md)
+* [OS](os/README.md)
+  * [linux](os/linux/README.md)
+    * [ssh](os/linux/ssh.md)
+    * [shell](os/linux/shell.md)
+  * [macos](os/macos.md)
 * [飞出去](fei-chu-qu/README.md)
   * [apple tv OS](fei-chu-qu/apple-tv-os.md)
   * [IOS](fei-chu-qu/ios.md)
@@ -18,11 +22,6 @@
 * [Vue](web/vue.md)
 * [生命周期和组件](web/sheng-ming-zhou-qi-he-zu-jian.md)
 * [vue 0128](web/vue-0128.md)
-
-## linux
-
-* [ssh](linux/ssh.md)
-* [shell](linux/shell.md)
 
 ## 中间件
 

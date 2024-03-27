@@ -8,6 +8,14 @@
 
 [Intellij IDEA同步代码至远程FTP服务器](https://blog.csdn.net/banana1006034246/article/details/81534975)
 
+远程路径
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+本地路径
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 
 
 ## 授权服务器

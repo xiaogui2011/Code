@@ -8,4 +8,4 @@
 
 * 当gitbook中的内容更新 -> github代码更新 -> gitbook的在线文稿预览更新
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

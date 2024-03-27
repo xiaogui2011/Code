@@ -67,7 +67,7 @@ vc diff vm
 
 ## prototype
 
-&#x20;<img src="../.gitbook/assets/image.png" alt="" data-size="original">
+&#x20;<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 
 

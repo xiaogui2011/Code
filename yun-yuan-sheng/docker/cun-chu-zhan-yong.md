@@ -44,3 +44,8 @@ find ./ -size +100M -type f
 The default data volume
 
 data\_volume: /mnt/registry
+
+
+
+## <mark style="color:red;">harbor部署到大磁盘上</mark>
+

@@ -126,7 +126,7 @@ http {
     # 启用 stub_status 模块，监听 8080 端口
     server {
 	location = /nginx_status {
-	     stub_status;
+	     stub_status on;
 	}
     }
 

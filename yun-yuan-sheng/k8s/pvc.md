@@ -1,2 +1,24 @@
 # PVC
 
+## pvc和pv的关系
+
+PVC就是持久化存储的请求， PV就是持久化存储的资源&#x20;
+
+手动删除pvc就将直接删除pv
+
+## PVC
+
+* 寻找一个合适的PV进行绑定
+* 就是PV的一种请求方案
+
+PVC和PV的先后顺序呢？
+
+* **有关联**
+* ~~无关联~~
+* ~~均可~~
+
+
+
+## 整体的流程
+
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">

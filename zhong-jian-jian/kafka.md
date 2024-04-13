@@ -31,7 +31,7 @@
 
 ## 参与过的项目时序图
 
-<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw (1) (1).svg" alt="" class="gitbook-drawing">
 
 ## 格式
 

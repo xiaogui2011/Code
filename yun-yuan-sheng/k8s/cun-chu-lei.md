@@ -1,4 +1,4 @@
-# 存储类
+# 😀 存储类
 
 ## 概要
 
@@ -55,7 +55,7 @@ Export list for 192.168.10.253:
 
 <mark style="color:red;">exportfs</mark>命令： 用于管理NFS(Network File System)文件系统，在不直接编辑/etc/exports文件的情况下，可用exportfs来操作
 
-某mou
+<mark style="color:red;">mount</mark>：挂载到本地的某个文件夹下
 
 
 

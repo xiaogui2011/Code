@@ -17,3 +17,7 @@
 * PV和PVC是一一对应的关系，PVC可以绑定多个PV，但是PV只能绑定一个PVC
 
 <mark style="color:red;">PV怎么在使用的过程中扩容？</mark>
+
+
+
+<mark style="background-color:red;">使用过的 PV要变成available状态， 需要编辑PV， 删除ClaimRef, 这样就能达到释放资源的效果</mark>

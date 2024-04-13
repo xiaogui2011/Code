@@ -50,3 +50,16 @@ drwxr-xr-x  12 zhangzhiyuan  staff   384  3  4 15:09 GoLand2023.3
 ## [<mark style="color:red;">your track</mark>](https://lanzhouoneriver.youtrack.cloud/projects)
 
 [`https://lanzhouoneriver.youtrack.cloud/projects`](https://lanzhouoneriver.youtrack.cloud/projects)
+
+
+
+## AI
+
+2024.4.1
+
+[`https://sales.jetbrains.com/hc/zh-tw/articles/16544564838162-AI-Assistant-%E5%9C%A8-JetBrains-IDE-%E4%B8%AD%E7%9A%84%E5%8F%AF%E7%94%A8%E6%80%A7`](https://sales.jetbrains.com/hc/zh-tw/articles/16544564838162-AI-Assistant-%E5%9C%A8-JetBrains-IDE-%E4%B8%AD%E7%9A%84%E5%8F%AF%E7%94%A8%E6%80%A7)
+
+| [免費開源開發授權](https://www.jetbrains.com/community/opensource/#support)     | 無 |
+| ----------------------------------------------------------------------- | - |
+| 學生和教師的[免費教育授權](https://www.jetbrains.com/community/education/#students) | 無 |
+| 個人使用的個人授權                                                               | 有 |

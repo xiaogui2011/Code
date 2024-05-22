@@ -1,6 +1,0 @@
-# containers
-
-```
-crictl images list
-```
-
